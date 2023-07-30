@@ -1,0 +1,17 @@
+# Ignore compiled classes and out directories
+Sheet3/out/
+Sheet4/out/
+Sheet5/Ex1/out/
+Sheet5/Ex2/out/
+Sheet6/Ex1/out/
+Sheet6/Ex2/out/
+Sheet7/target/
+
+# Ignore compiled class files in Sheet5/Ex2/src
+Sheet5/Ex2/src/*.class
+
+# Ignore IntelliJ IDEA and other IDE files
+*.iml
+.idea/
+
+*.DS_Store
